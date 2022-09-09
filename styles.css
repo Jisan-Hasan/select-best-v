@@ -1,0 +1,49 @@
+header {
+    background-color: #000000;
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+}
+
+header h1 {
+    color: #ff5e19;
+    font-size: 4rem;
+}
+header p {
+    color: #ffffff;
+    font-size: 1.2rem;
+}
+
+main,
+footer {
+    background-color: #151515;
+    color: #ffffff;
+}
+
+.card {
+    background-color: #0d0d0d;
+}
+
+.card img {
+    height: 250px;
+}
+
+.dark-bg {
+    background-color: #0d0d0d;
+}
+
+ol li{
+    font-size: 1.2rem;
+}
+
+input[type="number"] {
+    background-color: #000000;
+    color: #ffffff;
+}
+input[type="number"]:focus {
+    color: #ffffff;
+    background: #000;
+}
+
+#total-cost-element {
+    color: #ff5e19;
+}
